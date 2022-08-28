@@ -2513,8 +2513,8 @@ figcaption {
 }
 
 .nav-button:hover {
-    background-color: #2cc1ff;
-    box-shadow: 0 10px 30px -10px #2cc1ff;
+    background-color: #ff0f0f;
+    box-shadow: 0 10px 30px -10px #ff1717;
     -webkit-transform: translate(0px, -3px);
     -ms-transform: translate(0px, -3px);
     transform: translate(0px, -3px);
